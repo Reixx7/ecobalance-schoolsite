@@ -18,7 +18,7 @@ const EcoBalanceWebsite = () => {
                 <p className="text-sm text-gray-600">Вместе за чистую планету</p>
               </div>
             </div>
-            <nav className="hidden md:flex gap-6 list-none">
+            <nav className=" md:flex gap-6 list-none">
               <Link to="/home"> <li 
                 
                className= 'text-gray-600 hover:text-green-600'   
